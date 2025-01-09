@@ -3,9 +3,14 @@
 E-commerce platforms rely on user engagement and repeat purchases. Users who stop engaging represent lost revenue, making churn prediction critical for proactive retention strategies.
 Predicting churn allows targeted marketing interventions, such as personalized offers or engagement campaigns, to reduce customer attrition.
 
+### The Goals:
+
+Help small businesses in e-commerce.
+
+Reduce churn rates.
 
 
-Dataset:
+### Dataset:
 ```
 https://drive.google.com/file/d/13d1-J5AL60404txCNg1yb53Dwuuqmf-X/view?usp=sharing
 ```
